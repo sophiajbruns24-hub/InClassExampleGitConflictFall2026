@@ -7,10 +7,12 @@ int main()
 {
     cout << "Greetings.\n";
     cout << "Hello World!\n";
+    say("Hi");
     return 0;
 }
 
 int add(int a, int b)
 {
+    
     return a + b;
 }
