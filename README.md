@@ -1,0 +1,1 @@
+# InClassExampleGitConflictFall2026
